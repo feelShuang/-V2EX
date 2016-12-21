@@ -311,6 +311,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = LiuShuang.V2EX;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos10.1;
 			};
 			name = Debug;
 		};
@@ -325,6 +326,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = LiuShuang.V2EX;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos10.1;
 			};
 			name = Release;
 		};
